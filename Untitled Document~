@@ -1,0 +1,29 @@
+ <script charset="utf-8" src="http://widgets.twimg.com/j/2/widget.js"></script>
+                <script>
+                  new TWTR.Widget({
+                    version: 2,
+                    type: 'profile',
+                    rpp: 5,
+                    interval: 30000,
+                    width: 400,
+                    height: 320,
+                    theme: {
+                      shell: {
+                        background: '#333333',
+                        color: '#ffffff'
+                        }, 
+                        tweets: {
+                          background: '#ffffff',
+                          color: '#ff8922',
+                          links: '#e30404'
+                      }
+                      },
+                      features: {
+                        scrollbar: true,
+                        loop: false,
+                        live: false, 
+                        behavior: 'default'
+                    }
+                    }).render().setUser('Ride4Life2012').start();
+                </script>  
+

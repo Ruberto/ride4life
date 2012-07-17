@@ -1,0 +1,240 @@
+body {
+	background: #5f5f5f url('/home/ruberto/HTML/ride4life/images/background_test.png') no-repeat center top;
+	font-family: 'Quicksand', sans-serif;
+}
+
+.container {
+	border: 1px solid #333333;
+	border-radius: 8px;
+	background-image: url('/home/ruberto/HTML/ride4life/images/shade.png');
+	padding: 5px;
+	width: 920px;
+	margin: 2px auto;
+}
+
+#header {
+	background-image: url('/home/ruberto/HTML/ride4life/images/ravenna.png');
+	border: 1px solid #666666;
+	border-radius: 8px;
+	width: 900px;
+	height: 70px;
+	margin: 5px auto;
+}
+
+#ride4life_name {
+	float: left;
+}
+
+#ride4life_img {
+	height: 150px;
+	width: 920px;
+	margin: 0px auto;
+}
+
+#ride4life_img img {
+	height: 150px;
+	width: 300px;
+}
+
+#donate_button:hover {
+	background-color: #777777;
+}
+
+#donate_button {
+	border: 1px solid #e30404;
+	border-radius: 8px;
+	float: right;
+	background-color: #666666;
+	height: 35px;
+	width: 200px;
+	margin-top: 15px;
+	margin-right: 35px;
+}
+
+#donate_button a {
+	text-decoration: none;
+}
+
+#donate_button p {
+	float: left;
+	color: white;
+	margin-left: 15px;
+	margin-top: 8px;
+}
+
+#donate_button img {
+	float: right;
+	margin-top: 8px;
+	margin-right: 10px;
+}
+
+.rarr {
+	height: 20px;
+	width: 20px;
+}
+
+#content {
+	border: 1px solid #666666;
+	border-radius: 8px;
+	width: 900px;
+	height: auto;
+	margin: 5px auto;
+}
+
+b {
+	color: #E30404;
+	font-size: 20px;
+}
+
+#markup {
+	color: #E30404;
+	text-decoration: none;
+}
+
+#markup:hover {
+	text-decoration: underline;
+}
+
+.home_quote_box {
+	border: 1px solid white;
+}
+
+.home_description {
+	border: 1px solid white;
+}
+
+.profile {
+	border: 1px solid #ddd;
+	border-radius: 8px;
+	width: 900px;
+	height: 335px;
+	width: 835px;
+	margin: 5px;
+}
+
+.profile img {
+	border-radius: 8px;
+}
+
+.profile_images {
+	height: 300px;
+	width: 200px;
+	float: left;
+}
+
+.profile_name {
+	float: left;
+	margin-right: 420px;
+	margin-left: 25px;
+	margin-top: 5px;
+	font-size: 45px;
+}
+
+.profile_description {
+	margin: 60px;
+	margin-left: 220px;
+	font-size: 16px;
+}
+
+#footer {
+	background-image: url('/home/ruberto/HTML/ride4life/images/ravenna.png');
+	border: 1px solid #212121;
+	border-radius: 8px;
+	width: 900px;
+	height: auto;
+	margin: 5px auto;
+}
+
+#floating_block {
+	border-radius: 8px;
+	width: 28px;
+	height: 125px;
+	position: fixed;
+	margin-top: 150px;
+}
+
+.home_quote_box img {
+	border-radius: 8px;
+}
+
+.header_image2 img {
+	border-radius: 8px;
+}
+
+.cause_image img {
+	border-radius: 8px;
+}
+
+.challenge_header img {
+	border-radius: 8px;
+}
+
+.header_image5 img {
+	border-radius: 8px;
+}
+
+.donate_header img {
+	border-radius: 8px;
+}
+
+.icon {
+	margin-top: 5px;
+	margin-left: 1px;
+}
+
+#genesis_img {
+	border: 1px solid #666666;
+	border-radius: 8px;
+	margin-top: 70px;
+	margin-right: 5px;
+	float: right;
+}
+
+#genesis_img img {
+	border-radius: 8px;
+	height: 75px;
+	width: 145px;
+}
+
+/************Gallery***************/
+.gallery_content {
+	background-image: url('/home/ruberto/HTML/ride4life/images/ravenna.png');
+	border: 1px solid #666666;
+	border-radius: 8px;
+	width: 900px;
+	height: auto;
+	margin: 5px auto;
+}
+
+.gallery_content h2 {
+	color: #e30404;
+	margin-left: 20px;
+	font-size: 30px;
+}
+
+.gallery_container {
+	width: 880px;
+	height: 380px;
+}
+
+.gallery_box {
+	border: 1px solid #dddddd;
+	background-color: white;
+	border-radius: 8px;
+	width: 220px;
+	height: 250px;
+	float: left;
+	margin: 15px 15px 15px 22px;
+	padding-left: 15px;
+}
+
+/*********** Donate page ************/
+.donate_content {
+	background-image: url('/home/ruberto/HTML/ride4life/images/ravenna.png');
+	border: 1px solid blue;
+	width: 900px;
+	height: 500px;
+	margin: 5px auto;
+	border-radius: 8px;
+}
+
